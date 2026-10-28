@@ -1,4 +1,4 @@
-# using chart in bsidian
+# using chart in Obsidian
 > simple installation\
 > lightweigh\
 > avaible for ---> linux / windows / mac / android / ios\
